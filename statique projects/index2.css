@@ -1,0 +1,15 @@
+html,body{
+    height: 100%;
+    
+   
+}
+.l2ab-rohi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+body{
+    overflow-x: hidden;
+    overflow-y:hidden ;
+}
